@@ -1,5 +1,5 @@
 ADMIN CREDENTIALS
 
-Username: admin
-Password: admin
+Username: *****
+Password: *****
 
